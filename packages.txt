@@ -1,4 +1,3 @@
-scikit-learn-dev
-pandas-dev
-numpy-dev
-matplotlib-dev
+scikit-learn
+pandas
+numpy
